@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "AIST2602"
 ---
 
-I'm glad you are here. I plan to talk about ...
+AIST2602 GitHub Milestone #1...
